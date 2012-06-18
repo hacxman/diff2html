@@ -1,4 +1,4 @@
-Filters garbage from headers, spills out subject, cc, from, to
+Filters garbage from patch headers, spills out subject, cc, from, to
 and colourizes + and minus using light red and green respectively.
 Does so for all input files, producing one html file.
 
